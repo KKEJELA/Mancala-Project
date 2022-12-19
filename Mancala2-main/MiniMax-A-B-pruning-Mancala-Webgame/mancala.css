@@ -1,0 +1,490 @@
+button {
+   background-color: rgb(6, 0, 13); 
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bolder;
+  margin: auto;
+ }
+
+.imageContainer {
+    margin-left:36%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    color: rgb(6, 0, 13);
+ }
+ 
+
+ .caption{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .img10 {
+    position: absolute;
+    top: 80px;
+    left: 160px;
+ }
+
+ .img11{
+   position: absolute;
+    top: 80px;
+    left: 286px;
+
+ }
+ .img12{
+   position: absolute;
+    top: 80px;
+    left: 390px;
+
+ }
+ .img13{
+   position: absolute;
+    top: 80px;
+    left: 494px;
+
+ }
+ .img14{
+   position: absolute;
+    top: 80px;
+    left: 598px;
+
+ }
+ .img15{
+   position: absolute;
+    top: 80px;
+    left: 702px;
+
+ }
+ .p10{
+   position: absolute;
+    top: 80px;
+    left: 182px;
+
+ }
+ .p11 {
+    position: absolute;
+    top: 80px;
+    left: 286px;
+ }
+ .p12 {
+    position: absolute;
+    top: 80px;
+    left: 390px;
+ }
+ .p13 {
+    position: absolute;
+    top: 80px;
+    left: 494px;
+ }
+ .p14 {
+    position: absolute;
+    top: 80px;
+    left: 598px;
+ }
+ .p15 {
+    position: absolute;
+    top: 80px;
+    left: 702px; 
+ }
+ .p1s {
+    position: absolute;
+    bottom: 250px;
+    left: 78px;
+ }
+/*images of bottom row.*/
+ .img20 {
+   position: absolute;
+   bottom: 83px;
+   left: 182px;
+}
+.img21 {
+   position: absolute;
+   bottom: 83px;
+   left: 286px;
+}
+.img22 {
+   position: absolute;
+   bottom: 83px;
+   left: 390px;
+}
+.img23 {
+   position: absolute;
+   bottom: 83px;
+   left: 494px;
+}
+.img24 {
+   position: absolute;
+   bottom: 83px;
+   left: 598px;
+}
+.img25 {
+   position: absolute;
+   bottom: 83px;
+   left: 702px;
+}
+
+
+/*Captions, numbers of bottom row.*/ 
+ .p20 {
+    position: absolute;
+    bottom: 83px;
+    left: 182px;
+ }
+ .p21 {
+    position: absolute;
+    bottom: 83px;
+    left: 286px;
+ }
+ .p22 {
+    position: absolute;
+    bottom: 83px;
+    left: 390px;
+ }
+ .p23 {
+    position: absolute;
+    bottom: 83px;
+    left: 494px;
+ }
+ .p24 {
+    position: absolute;
+    bottom: 83px;
+    left: 598px;
+ }
+ .p25 {
+    position: absolute;
+    bottom: 83px;
+    left: 702px;
+ }
+ .p2s {
+    position: absolute;
+    bottom: 250px;
+    left: 803px;
+ }
+ .current {
+   position: absolute;
+   bottom: 250px;
+   left: 308px;
+}
+
+/* top row, pot number 1 marbles*/
+
+/*.top1_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1400px;
+}*/
+
+.top1_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1370px;
+}
+
+.top1_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1400px;
+}
+
+.top1_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1370px;
+}
+
+/* top row, pot number 2 marbles*/
+.top2_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1505px;
+}
+
+.top2_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1475px;
+}
+
+.top2_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1505px;
+}
+
+.top2_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1475px;
+}
+
+/* top row, pot number 3 marbles*/
+.top3_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1610px;
+}
+
+.top3_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1580px;
+}
+
+.top3_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1610px;
+}
+
+.top3_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1580px;
+}
+
+/* top row, pot number 4 marbles*/
+.top4_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1715px;
+}
+
+.top4_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1685px;
+}
+
+.top4_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1715px;
+}
+
+.top4_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1685px;
+}
+
+/* top row, pot number 5 marbles*/
+.top5_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1820px;
+}
+
+.top5_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1790px;
+}
+
+.top5_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1820px;
+}
+
+.top5_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1790px;
+}
+
+/* top row, pot number 6 marbles*/
+.top6_1 { 
+   position: absolute;
+   top: 150px;
+   left: 1925px;
+}
+
+.top6_2 { 
+   position: absolute;
+   top: 150px;
+   left: 1895px;
+}
+
+.top6_3 { 
+   position: absolute;
+   top: 180px;
+   left: 1925px;
+}
+
+.top6_4 { 
+   position: absolute;
+   top: 180px;
+   left: 1895px;
+}
+
+/* bottom row, pot number 1 marbles*/
+.btm1_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1400px;
+}
+
+.btm1_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1370px;
+}
+
+.btm1_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1400px;
+}
+
+.btm1_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1370px;
+}
+
+/* bottom row, pot number 2 marbles*/
+.btm2_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1505px;
+}
+
+.btm2_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1475px;
+}
+
+.btm2_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1505px;
+}
+
+.btm2_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1475px;
+}
+
+/* bottom row, pot number 3 marbles*/
+.btm3_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1610px;
+}
+
+.btm3_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1580px;
+}
+
+.btm3_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1610px;
+}
+
+.btm3_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1580px;
+}
+
+/* bottom row, pot number 4 marbles*/
+.btm4_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1715px;
+}
+
+.btm4_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1685px;
+}
+
+.btm4_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1715px;
+}
+
+.btm4_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1685px;
+}
+
+/* bottom row, pot number 5 marbles*/
+.btm5_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1820px;
+}
+
+.btm5_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1790px;
+}
+
+.btm5_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1820px;
+}
+
+.btm5_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1790px;
+}
+
+/* bottom row, pot number 6 marbles*/
+.btm6_1 { 
+   position: absolute;
+   top: 450px;
+   left: 1925px;
+}
+
+.btm6_2 { 
+   position: absolute;
+   top: 450px;
+   left: 1895px;
+}
+
+.btm6_3 { 
+   position: absolute;
+   top: 480px;
+   left: 1925px;
+}
+
+.btm6_4 { 
+   position: absolute;
+   top: 480px;
+   left: 1895px;
+}
+
+.column {
+   float: left;
+   font-style: oblique;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: larger;
+ }
+ 
+ .left {
+   width: 35%;
+   display: grid
+ }
+ 
+ .right {
+   width: 10%;
+ }
